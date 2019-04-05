@@ -5,7 +5,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/images/favicon.png' }]
   ],
-  // ga: "",
+  ga: "UA-131193769-3",
   themeConfig: {
     logo: '/images/logo.png',
     nav: [

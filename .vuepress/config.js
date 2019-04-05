@@ -12,6 +12,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
       { text: 'Patron', link: 'https://www.patreon.com/join/mittalyashu?' },
+      { text: 'Help!', link: 'https://discord.gg/KT3nAR5' },
     ],
     lastUpdated: 'Last Updated'
   },

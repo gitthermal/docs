@@ -1,0 +1,1 @@
+download/thermalsetup-0.0.1-alpha.3.exe filter=lfs diff=lfs merge=lfs -text

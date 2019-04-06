@@ -1,5 +1,6 @@
 ---
 sidebar: false
+title: Download
 ---
 
 # Download

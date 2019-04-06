@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Download
-actionLink: /download.md
+actionLink: /download/
 features:
 - title: Free & Open source
   details: App is & will always be free to use and we welcome you to join the team to contribute the open source code.

@@ -7,7 +7,7 @@ description: Version 0.0.1-alpha.4 is out by providing you greater control over 
 
 | OS | Format |
 | -- | -- |
-| **Windows** | [`.exe`](download/windows/thermalsetup-0.0.1-alpha.4.exe) |
+| **Windows** | [`.exe`](/download/windows/thermalsetup-0.0.1-alpha.4.exe) |
 
 Version `0.0.1-alpha.4` is out by providing you greater control over the features you use inside the app.
 

@@ -9,7 +9,7 @@ description: April fool day is near but the next release v0.0.1-alpha.2 is bit e
 | -- | -- |
 | **Windows** | [`.exe`](/download/windows/thermalsetup-0.0.1-alpha.2.exe) |
 
-April fool day is near but the next release v0.0.1-alpha.2 is bit early for you with some existing features.
+April fool day is near but the next release `v0.0.1-alpha.2` is bit early for you with some existing features.
 
 **Features**
 

@@ -1,5 +1,4 @@
 ---
-sidebar: false
 title: 7 April, 2019 release
 description: Version 0.0.1-alpha.4 is out by providing you greater control over the features you use inside the app.
 ---

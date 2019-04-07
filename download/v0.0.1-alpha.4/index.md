@@ -11,4 +11,12 @@ description: Version 0.0.1-alpha.4 is out by providing you greater control over 
 
 Version `0.0.1-alpha.4` is out by providing you greater control over the features you use inside the app.
 
+**Features**
+
+1. App settings
+2. Experimental features
+3. Toggle repository features
+4. Repository name in menu bar
+5. Push changes to remote repository
+
 Read [full change log](https://www.notion.so/gitthermal/Release-notes-7d77751a39484413b7ca8564b3f390a9#dc3f9ab75dca45abb75cf9ea42837980) for this update.

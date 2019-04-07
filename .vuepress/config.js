@@ -32,7 +32,10 @@ module.exports = {
       },
       { text: 'Patron', link: 'https://www.patreon.com/join/mittalyashu?' }
     ],
-    lastUpdated: 'Last Updated'
+    lastUpdated: 'Last Updated',
+    serviceWorker: {
+      updatePopup: true
+    }
   },
   serviceWorker: true
 }

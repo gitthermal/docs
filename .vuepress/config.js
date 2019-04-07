@@ -32,6 +32,9 @@ module.exports = {
       },
       { text: 'Patron', link: 'https://www.patreon.com/join/mittalyashu?' }
     ],
+    repo: 'http://gitlab.com/gitthermal/website/',
+    editLinks: true,
+    editLinkText: 'Help us improve this page!',
     lastUpdated: 'Last Updated',
     serviceWorker: {
       updatePopup: true

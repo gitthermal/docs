@@ -1,5 +1,5 @@
 ---
-title: Guide | Windows
+title: Guide - Windows
 sidebarDepth: 1
 previous: '/download/'
 ---

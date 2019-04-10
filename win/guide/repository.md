@@ -1,5 +1,5 @@
 ---
-title: Repository | Windows
+title: Repository - Windows
 ---
 
 # Working with a repository

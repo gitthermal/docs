@@ -1,3 +1,7 @@
+---
+title: Repository | Windows
+---
+
 # Working with a repository
 
 After selecting a repository, you have access to all commands & information around the repository. It's here where you get an overview of modified files, commit changes, inspect previous commits, stashes, remote repositories and much more.

@@ -22,7 +22,12 @@ module.exports = {
     logo: '/images/logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
+      {
+        text: 'Guide',
+        items: [
+          { text: 'Windows', link: '/win/guide/' }
+        ]
+      },
       {
         text: 'Misc',
         items: [
@@ -32,6 +37,14 @@ module.exports = {
       },
       { text: 'Patron', link: 'https://www.patreon.com/join/mittalyashu?' }
     ],
+    sidebar: {
+      '/win/guide/': [
+        ['/download/', 'Download'],
+        ['', 'Introduction'],
+        ['repository', 'Repository'],
+        ['experimental-features', 'Experimental features']
+      ]
+    },
     repo: 'http://gitlab.com/gitthermal/website/',
     editLinks: true,
     editLinkText: 'Help us improve this page!',

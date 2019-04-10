@@ -1,6 +1,6 @@
 ## Contributing
 
-This documentation serves as reference points for developing against Thermal application.
+This documentation serves as reference points for developing against Thermal application, an open source Electron-based app written in Vue.js.
 
 If you are interested in fixing issues and contributing directly to the codebase. Here's a quick steps to get started quickly:
 

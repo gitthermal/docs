@@ -26,8 +26,7 @@ Thermal's sidebar controls which aspect of a repository you're looking at or wor
 
 ### Other features _(coming soon)_
 
-* [Tags](https://www.notion.so/gitthermal/Tags-history-61a27f9ed42c49a38cdf2371d2d6d8b5#61a27f9ed42c49a38cdf2371d2d6d8b5)
-
+- [Tags](https://www.notion.so/gitthermal/Tags-history-61a27f9ed42c49a38cdf2371d2d6d8b5#61a27f9ed42c49a38cdf2371d2d6d8b5)
 
 ## Workspace
 
@@ -37,7 +36,7 @@ On the left side, you get an overview of any currently modified files.
 
 ### Other features _(coming soon)_
 
-* [File diff](https://www.notion.so/gitthermal/File-diff-ad75574eee7143e398fd6d46b0b91b92#ad75574eee7143e398fd6d46b0b91b92)
+- [File diff](https://www.notion.so/gitthermal/File-diff-ad75574eee7143e398fd6d46b0b91b92#ad75574eee7143e398fd6d46b0b91b92)
 
 ## History
 

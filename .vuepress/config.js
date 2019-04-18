@@ -45,7 +45,8 @@ module.exports = {
 				['experimental-features', 'Experimental features']
 			]
 		},
-		repo: 'http://gitlab.com/gitthermal/website/',
+		repo: 'http://gitlab.com/gitthermal/thermal/',
+		docsRepo: 'http://gitlab.com/gitthermal/website/',
 		editLinks: true,
 		editLinkText: 'Help us improve this page!',
 		lastUpdated: 'Last Updated',

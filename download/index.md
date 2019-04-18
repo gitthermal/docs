@@ -7,6 +7,8 @@ title: Download
 
 Currently the application is only avaliable for windows. We are working hard to bring the app on other operating system too.
 
+* [v0.0.1](v0.0.1/)
+
 ### Older version
 
 ::: warning NOTE

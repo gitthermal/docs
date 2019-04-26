@@ -5,7 +5,7 @@ title: Download
 
 # Download
 
-Currently the application is only avaliable for windows. We are working hard to bring the app on other operating system too.
+Currently the application is only avaliable for Windows and Linux. We are working hard to bring the app for MacOS too.
 
 * [v0.0.1](v0.0.1/)
 

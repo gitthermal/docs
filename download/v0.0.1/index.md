@@ -10,7 +10,7 @@ description: First stable release with some more feature to make your lives easi
 | **Windows** | [`.exe`](/download/windows/thermalsetup-0.0.1.exe) |
 | **Linux** | [`.zip`](/download/linux/thermalsetup-x64-0.0.1.zip) [`.deb`](/download/linux/thermal-amd64-0.0.1.deb) |
 
-With the first stable release `v0.0.1` we are [opening sourcing the source code](https://gitlab.com/gitthermal/thermal/) of the Thermal application and adding some new feature to make your lives easier.
+With the first stable release `v0.0.1` we are [opening sourcing the source code](https://github.com/gitthermal/thermal/) of the Thermal application and adding some new feature to make your lives easier.
 
 ## Features
 

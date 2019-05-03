@@ -5,7 +5,7 @@ module.exports = {
 	head: [
 		['link', { rel: 'icon', href: '/images/favicon.png' }],
 		['meta', { name: 'keywords', content: 'thermal, thermal app, git thermal, thermal gui, thermal git, git gui' }],
-		['meta', { name: 'author', content: 'CodeCarrot and Yashu Mittal' }],
+		['meta', { name: 'author', content: 'CodeCarrot' }],
 		['meta', { itemprop: 'image', content: '/images/meta_image.png' }],
 		['meta', { property: 'og:type', content: 'website' }],
 		['meta', { itemprop: 'og:image', content: '/images/meta_image.png' }],
@@ -45,8 +45,8 @@ module.exports = {
 				['experimental-features', 'Experimental features']
 			]
 		},
-		repo: 'http://gitlab.com/gitthermal/thermal/',
-		docsRepo: 'http://gitlab.com/gitthermal/website/',
+		repo: 'http://github.com/gitthermal/thermal/',
+		docsRepo: 'http://github.com/gitthermal/website/',
 		editLinks: true,
 		editLinkText: 'Help us improve this page!',
 		lastUpdated: 'Last Updated',

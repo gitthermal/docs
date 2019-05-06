@@ -38,6 +38,11 @@ module.exports = {
 				['', 'Introduction'],
 				['repository', 'Repository'],
 				['experimental-features', 'Experimental features']
+			],
+			'/experimental-features/': [
+				['file-diff', 'File diff'],
+				['commit-description', 'Commit description'],
+				['powered-by', 'Powered by']
 			]
 		},
 		repo: 'gitthermal/thermal',

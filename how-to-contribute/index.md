@@ -10,7 +10,7 @@ There are many ways in which you can contribute, beyond writing code, by logging
 
 ## Reporting Issues
 
-Have you identified a reproducible problem inside the application? Have a feature request? We want to hear about it! Fill out this form to [submit your issue](https://thermal.netlify.com/issue).
+Have you identified a reproducible problem inside the application? Have a feature request? We want to hear about it! Fill out this form to [submit your issue](https://github.com/gitthermal/thermal/issues/new/choose).
 
 ## Pull requests
 

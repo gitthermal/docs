@@ -25,14 +25,9 @@ module.exports = {
 			{
 				text: 'Guide',
 				items: [
-					{ text: 'Windows', link: '/win/guide/' }
-				]
-			},
-			{
-				text: 'Misc',
-				items: [
-					{ text: 'Support', link: 'https://discord.gg/KT3nAR5' },
-					{ text: 'Changelog', link: 'https://www.notion.so/gitthermal/Release-notes-7d77751a39484413b7ca8564b3f390a9' }
+					{ text: 'Experimental features', link: '/#experimental-features' },
+					{ text: 'Contribution', link: '/#contribution' },
+					{ text: 'FAQ', link: '/#faq' }
 				]
 			},
 			{ text: 'Patron', link: 'https://www.patreon.com/join/mittalyashu?' }
@@ -43,10 +38,15 @@ module.exports = {
 				['', 'Introduction'],
 				['repository', 'Repository'],
 				['experimental-features', 'Experimental features']
+			],
+			'/experimental-features/': [
+				['file-diff', 'File diff'],
+				['commit-description', 'Commit description'],
+				['powered-by', 'Powered by']
 			]
 		},
-		repo: 'http://github.com/gitthermal/thermal/',
-		docsRepo: 'http://github.com/gitthermal/website/',
+		repo: 'gitthermal/thermal',
+		docsRepo: 'gitthermal/docs',
 		editLinks: true,
 		editLinkText: 'Help us improve this page!',
 		lastUpdated: 'Last Updated',

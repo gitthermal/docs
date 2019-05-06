@@ -1,13 +1,34 @@
----
-home: true
-actionText: Download
-actionLink: /download/
-features:
-- title: Free & Open source
-  details: App is & will always be free to use and we welcome you to join the team to contribute the open source code.
-- title: Unique design
-  details: Simple and unique makes the app more simple and easy to use.
-- title: Beginner friendly
-  details: A developer who is new to Git and easily get starting by using the app.
-footer: Copyright © 2018 - present Yashu Mittal
----
+## Experimental features
+
+::: danger Note
+Experimental features aren't quite ready. They may break (or disappear) at any time.
+:::
+
+All these features can be enabled from Options in the menu bar, toggle the feature you would like to use and, let us know what you think by joining our **[Thermal Discord server](https://discord.gg/KT3nAR5)**.
+
+- [File diff](/experimental-features/file-diff.md)
+- [Commit description](/experimental-features/commit-description.md)
+- [Powered by](/experimental-features/powered-by.md)
+
+## Contribution
+
+### Contributor
+
+- [How to contribute?](/contribute/how-to-contribute/)
+- [Contribution guide](/contribute/contribution-guide/)
+- [Reporting issues](/contribute/reporting-issue/)
+- [Pair programming](/contribute/pair-programming/)
+
+### Core team
+
+- [How to join core team?](/contribute/how-to-join-core-team/)
+
+## FAQ
+
+### System requirements
+
+An installation of Git is not required since Thermal comes with a fully functional Git binary.
+
+### Reporting crashes & hangs
+
+When Thermal crashes _(i.e. is unexpectedly terminated)_, please send us the corresponding [crash report](https://github.com/gitthermal/thermal/issues/new/choose).

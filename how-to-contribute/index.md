@@ -6,7 +6,7 @@ sidebar: auto
 
 Welcome, whether you're helping us fix bugs, improve the docs, or spread the word, we'd love to have you as part of the Thermal community.
 
-There are many ways in which you can contribute, beyond writing code. The goal of this document is to provide a high-level overview of how you can get involved. 
+There are many ways in which you can contribute, beyond writing code, by logging bugs, submitting pull requests, reporting issues, and creating suggestions.
 
 ## Reporting Issues
 

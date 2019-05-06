@@ -14,13 +14,13 @@ All these features can be enabled from Options in the menu bar, toggle the featu
 
 ### Contributor
 
-* [How to contribute?](/contribute/how-to-contribute/)
-* [Contribution guide](/contribute/contribution-guide/)
-* [Pair programming](/contribute/pair-programming/)
+- [How to contribute?](/contribute/how-to-contribute/)
+- [Contribution guide](/contribute/contribution-guide/)
+- [Pair programming](/contribute/pair-programming/)
 
 ### Core team
 
-* [How to join core team?](/how-to-join-core-team/)
+- [How to join core team?](/contribute/how-to-join-core-team/)
 
 ## FAQ
 

@@ -1,14 +1,15 @@
 {
-  "name": "thermal-website",
-  "version": "0.0.1",
-  "license": "MIT",
-  "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
-  },
-  "devDependencies": {
-    "node-sass": "^4.11.0",
-    "sass-loader": "^7.1.0",
-    "vuepress": "^0.14.10"
-  }
+	"name": "thermal-website",
+	"version": "0.0.1",
+	"license": "MIT",
+	"scripts": {
+		"dev": "vuepress dev",
+		"build": "vuepress build",
+		"now-build": "vuepress build"
+	},
+	"devDependencies": {
+		"node-sass": "^4.11.0",
+		"sass-loader": "^7.1.0",
+		"vuepress": "^0.14.10"
+	}
 }

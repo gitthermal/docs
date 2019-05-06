@@ -16,7 +16,7 @@ Have you identified a reproducible problem inside the application? Have a featur
 
 Check out our [Contributing Guide](/contribution-guide/) for ideas on contributing and setup steps for getting our repositories up and running on your local machine.
 
-*You will also get a contributor badge [in discord](https://discord.gg/spyxbGt).*
+*Once your pull request is accepted, you will alos get a contributor badge [in discord](https://discord.gg/spyxbGt).*
 
 ## Bug hunter
 

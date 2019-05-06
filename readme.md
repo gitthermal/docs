@@ -2,9 +2,9 @@
 
 ### Contributor
 
-* [How to contribute?](/how-to-contribute/)
-* [Contribution guide](/contribution-guide/)
-* [Pair programming](/pair-programming/)
+* [How to contribute?](/contribute/how-to-contribute/)
+* [Contribution guide](/contribute/contribution-guide/)
+* [Pair programming](/contribute/pair-programming/)
 
 ### Core team
 

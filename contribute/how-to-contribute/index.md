@@ -14,7 +14,7 @@ Have you identified a reproducible problem inside the application? Have a featur
 
 ## Pull requests
 
-Check out our [Contributing Guide](/contribution-guide/) for ideas on contributing and setup steps for getting our repositories up and running on your local machine.
+Check out our [Contributing Guide](/contribute/contribution-guide/) for ideas on contributing and setup steps for getting our repositories up and running on your local machine.
 
 *Once your pull request is accepted, you will alos get a contributor badge [in discord](https://discord.gg/spyxbGt).*
 
@@ -31,4 +31,4 @@ Joining the Thermal core team has it's own fun and few perks.
 * Discord `core-team` badge
 * Member of Thermal orgnization on GitHub
 
-Learn, [how to join core team?](/how-to-join-core-team/)
+Learn, [how to join core team?](/contribute/how-to-join-core-team/)

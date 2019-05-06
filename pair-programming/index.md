@@ -4,6 +4,8 @@ sidebar: auto
 
 # Pair programming
 
+Thermal offers a free pair programming sessions to the community if there's something you'd like to work on together. Get in touch with us if you have a question about contributing or an idea for something to pair on!
+
 The best part of open source is the community, and every community is stronger when it works together. To help build the strongest community possible, Thermal is offering free one-hour pair programming sessions to anyone and everyone in the open source community.
 
 We use Discord ([https://discordapp.com](https://discordapp.com/)) for pair programming. If you’ve never used it, please allow 5 minutes before the meeting to install Discord.

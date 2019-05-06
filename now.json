@@ -1,7 +1,7 @@
 {
 	"version": 2,
-	"name": "thermal-help",
-	"alias": "help.thermal",
+	"name": "thermal-docs",
+	"alias": "docs.thermal",
 	"builds": [
 		{
 			"src": "package.json",

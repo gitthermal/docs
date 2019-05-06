@@ -25,6 +25,7 @@ module.exports = {
 			{
 				text: 'Guide',
 				items: [
+					{ text: 'Contribution', link: '/#contribution' },
 					{ text: 'Windows', link: '/win/guide/' }
 				]
 			},

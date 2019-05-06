@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'Thermal',
 	description: 'One stop. Git repository',
-	dest: "dist",
+	dest: "public",
 	head: [
 		['link', { rel: 'icon', href: '/images/favicon.png' }],
 		['meta', { name: 'keywords', content: 'thermal, thermal app, git thermal, thermal gui, thermal git, git gui' }],

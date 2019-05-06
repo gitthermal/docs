@@ -31,7 +31,3 @@ An installation of Git is not required since Thermal comes with a fully function
 ### Reporting crashes & hangs
 
 When Thermal crashes _(i.e. is unexpectedly terminated)_, please send us the corresponding [crash report](https://github.com/gitthermal/thermal/issues/new/choose).
-
-### Downloading old versions
-
-The download links of the older versions is not longer available but can download the source code for each release.

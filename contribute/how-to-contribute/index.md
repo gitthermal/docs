@@ -10,7 +10,7 @@ There are many ways in which you can contribute, beyond writing code, by logging
 
 ## Reporting Issues
 
-Have you identified a reproducible problem inside the application? Have a feature request? We want to hear about it! Fill out this form to [submit your issue](https://github.com/gitthermal/thermal/issues/new/choose).
+Have you identified a reproducible problem inside the application? Have a feature request? Or a suggestion. We want to hear about it! Read more about [reporting issues](/reporting-issues/) to know more about it.
 
 ## Pull requests
 

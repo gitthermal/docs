@@ -16,6 +16,7 @@ All these features can be enabled from Options in the menu bar, toggle the featu
 
 - [How to contribute?](/contribute/how-to-contribute/)
 - [Contribution guide](/contribute/contribution-guide/)
+- [Reporting issues](/contribute/reporting-issue/)
 - [Pair programming](/contribute/pair-programming/)
 
 ### Core team

@@ -27,7 +27,7 @@ module.exports = {
 				items: [
 					{ text: 'Experimental features', link: '/#experimental-features' },
 					{ text: 'Contribution', link: '/#contribution' },
-					{ text: 'Windows', link: '/win/guide/' }
+					{ text: 'FAQ', link: '/#faq' }
 				]
 			},
 			{ text: 'Patron', link: 'https://www.patreon.com/join/mittalyashu?' }

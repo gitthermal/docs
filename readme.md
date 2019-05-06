@@ -21,3 +21,17 @@ All these features can be enabled from Options in the menu bar, toggle the featu
 ### Core team
 
 * [How to join core team?](/how-to-join-core-team/)
+
+## FAQ
+
+### System requirements
+
+An installation of Git is not required since Thermal comes with a fully functional Git binary.
+
+### Reporting crashes & hangs
+
+When Thermal crashes _(i.e. is unexpectedly terminated)_, please send us the corresponding [crash report](https://github.com/gitthermal/thermal/issues/new/choose).
+
+### Downloading old versions
+
+The download links of the older versions is not longer available but can download the source code for each release.

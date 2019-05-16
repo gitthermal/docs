@@ -1,4 +1,7 @@
 ---
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/gitthermal/docs.svg)](https://greenkeeper.io/)
+
 home: true
 actionText: Download
 actionLink: /download/
